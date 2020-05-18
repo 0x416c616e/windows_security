@@ -51,3 +51,6 @@
 49. Check your DNS settings with ipconfig /all, make sure it's not set to something suspicious
 50. Monitor resource usage
 51. Be aware that blue screens and other stability issues can sometimes be due to bad hardware or software, but sometimes also due to malware or security exploits
+52. Some other "second opinion scanners" to use include Hitman Pro, Sophos, Bitdefender, etc.
+53. Don't ignore SSL warnings in browsers
+54. Run `Get-ScheduledTask` in PowerShell to see scheduled tasks
