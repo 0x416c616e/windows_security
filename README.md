@@ -56,3 +56,4 @@
 54. Run `Get-ScheduledTask` in PowerShell to see scheduled tasks
 55. Check the Task Scheduler program (type in search bar)
 56. Check WMI events by going to start -> run -> wmimgmt.msc, though they should also be displayed in AutoRuns
+57. If you need to get files off of an infected computer, use a Linux flash drive, boot from that, and then use `ntfs-3g` to mount it, then get the files off. This can be more difficult if you are using BitLocker in Windows though.
