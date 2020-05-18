@@ -82,5 +82,11 @@
 80. Sometimes, malware might have new files and new processes, but in other cases, malware might be changing Windows DLLs, so rather than being new files, they are merely modifications of legitimate things.
 81. Foronics DeepFreeze can be a good way to make sure that malware can't stay on a system. It's mostly used by schools and businesses, but it could potentially be useful in a home environment too.
 82. Don't disable your ad blocker, even if a website tells you to
-83. 
-76. 
+83. Don't write passwords down in a text document. Only use a secure password manager, like LastPass (cloud-based) or KeePass (offline).
+84. Don't use Avast antivirus. They sell your personal info. 
+85. Look into Windows Sysinternals tools
+86. Use Sysmon
+87. If you get malware, change all your passwords
+88. Don't think that switching to macOS or Linux will mean you no longer have to worry about security. Security is an issue for every single operating system.
+89. Use Bitlocker, but just know that it can make file recovery more difficult if you need to use a bootable Linux flash drive for file recovery.
+90. 
