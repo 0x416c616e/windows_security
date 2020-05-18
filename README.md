@@ -89,4 +89,4 @@
 87. If you get malware, change all your passwords
 88. Don't think that switching to macOS or Linux will mean you no longer have to worry about security. Security is an issue for every single operating system.
 89. Use Bitlocker, but just know that it can make file recovery more difficult if you need to use a bootable Linux flash drive for file recovery.
-90. 
+90. Not all security issues involve malware. For example, if you go to a website that has a cross-site scripting vulnerability, someone could write an XSS payload that will steal your cookies from that site. But that won't involve any malware on your computer. Endpoint security, network security, and account security are different things, but all very important.
