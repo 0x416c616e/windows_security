@@ -57,3 +57,30 @@
 55. Check the Task Scheduler program (type in search bar)
 56. Check WMI events by going to start -> run -> wmimgmt.msc, though they should also be displayed in AutoRuns
 57. If you need to get files off of an infected computer, use a Linux flash drive, boot from that, and then use `ntfs-3g` to mount it, then get the files off. This can be more difficult if you are using BitLocker in Windows though.
+58. If a malicious file is in your cloud storage (Dropbox, Google Drive, etc), then simply reinstalling your OS won't get rid of it, so you have to scan cloud storage as well
+59. For SMB stuff/network-mapped drives, file versioning or offline/read-only backups are important to protect againt ransomware
+60. Don't use Adobe Flash anymore
+61. Make sure OS and program settings are set up correctly
+62. If someone gets malware once, they not only have to get rid of it with anti-malware software, but they also need to change their habits to make sure they won't get it a second time.
+63. Don't use old versions of Windows (XP, Vista, 7, etc)
+64. Don't use Internet Explorer or Edge
+65. Check your PATH variable
+66. Keep track of what programs are installed, as they need to be updated, and you should keep up to date with CVEs that affect the programs you use
+67. If you buy a used computer instead of a new one, either do a factory reset, or just buy a new copy of Windows, reformat the drive, and then reinstall the OS. There could be malware hidden on the computer that isn't obvious.
+68. If you use something like PuTTY, make sure you download the legitimate one, not the numerous trojanized illegitimate versions of it
+69. Make sure you have your UAC settings set to be relatively strict
+70. Some cheap devices from Amazon or ebay (smart watches, expansion cards, etc) might come with software that is malicious, such as drivers, an app, etc. Be careful about the devices you use with your computer, as they might not be trustworthy.
+71. If someone has physical access to your computer, it's not secure. So if you go to a library, get your laptop out, and then leave it unattended for a while, that's not safe.
+72. Use a VPN, especially if you're on public wifi. But in general, public wifi is not safe to use.
+73. Try to avoid sites that don't use HTTPS
+74. Most of the time, computer security threats can be the result of clicking on something, like going to a website, opening an email attachment, installing a program, etc. However, sometimes there are security issues that don't require any user interaction at all, such as remote code execution issues. This is why it's important to update both your OS and the programs you have installed within it.
+75. Be aware that some rootkits can persist even across factory resets or OS reinstallations, so doing stuff like reflashing your BIOS and reinstalling router firmware can be good.
+76. Disable remote access on your router. Only allow it to be logged into from the local network.
+77. Don't reuse passwords
+78. Change your router's default admin password, and possibly the username as well, though not all firmware supports this.
+79. It can be a good idea to use something liek pfSense, DD-WRT, or OpenWRT on a router, as many home router manufacturers won't give security updates for very long.
+80. Sometimes, malware might have new files and new processes, but in other cases, malware might be changing Windows DLLs, so rather than being new files, they are merely modifications of legitimate things.
+81. Foronics DeepFreeze can be a good way to make sure that malware can't stay on a system. It's mostly used by schools and businesses, but it could potentially be useful in a home environment too.
+82. Don't disable your ad blocker, even if a website tells you to
+83. 
+76. 
