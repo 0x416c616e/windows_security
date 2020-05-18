@@ -11,7 +11,7 @@
 9. Make an Acronis image that you can revert back to if need be
 10. Create restore points of known good configurations
 11. Check Windows Event Viewer
-12. Scan downloads with VirusTotal, but be aware of 
+12. Scan downloads with VirusTotal, but be aware of their privacy policy (use it to scan installers you've downloaded, but not personal documents, because people can use the VirusTotal API to see uploads)
 13. Use PowerShell to verify checksums
 14. Use a VPN, preferably one that blocks known malicious domains
 15. Use a DNS server that blocks malicious domains
