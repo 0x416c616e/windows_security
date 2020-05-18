@@ -42,3 +42,9 @@
 40. Check out any entries in HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run in regedit
 41. Scan websites with VirusTotal before going to them
 42. Limit the number of Wordpress or other CMS sites you visit, considering that they are often targets for hacking, and could be used to deliver malware to users, even if the site owners themselves are legitimate
+43. Only use remote access software if it's absolutely necessary
+44. Be careful when doing port forwarding, and in general, it's best not to
+45. Don't use UPnP
+46. Check your network firewall with Gibson ShieldsUp
+47. Check your computer's ports and services with nmap
+48. Monitor traffic with Wireshark
