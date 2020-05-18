@@ -35,3 +35,10 @@
 33. Use AutoRuns
 34. Use Process Explorer
 35. Check out BleepingComputer's tools
+36. Check firewall settings
+37. Be aware that some malware tries to hide itself from you
+38. Use 2FA
+39. Monitor bank statements and account logins
+40. Check out any entries in HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run in regedit
+41. Scan websites with VirusTotal before going to them
+42. Limit the number of Wordpress or other CMS sites you visit, considering that they are often targets for hacking, and could be used to deliver malware to users, even if the site owners themselves are legitimate
