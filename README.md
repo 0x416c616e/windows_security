@@ -48,3 +48,6 @@
 46. Check your network firewall with Gibson ShieldsUp
 47. Check your computer's ports and services with nmap
 48. Monitor traffic with Wireshark
+49. Check your DNS settings with ipconfig /all, make sure it's not set to something suspicious
+50. Monitor resource usage
+51. Be aware that blue screens and other stability issues can sometimes be due to bad hardware or software, but sometimes also due to malware or security exploits
