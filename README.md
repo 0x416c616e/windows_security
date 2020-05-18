@@ -55,3 +55,4 @@
 53. Don't ignore SSL warnings in browsers
 54. Run `Get-ScheduledTask` in PowerShell to see scheduled tasks
 55. Check the Task Scheduler program (type in search bar)
+56. Check WMI events by going to start -> run -> wmimgmt.msc, though they should also be displayed in AutoRuns
