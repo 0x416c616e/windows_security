@@ -54,3 +54,4 @@
 52. Some other "second opinion scanners" to use include Hitman Pro, Sophos, Bitdefender, etc.
 53. Don't ignore SSL warnings in browsers
 54. Run `Get-ScheduledTask` in PowerShell to see scheduled tasks
+55. Check the Task Scheduler program (type in search bar)
