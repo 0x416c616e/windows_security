@@ -78,7 +78,7 @@
 76. Disable remote access on your router. Only allow it to be logged into from the local network.
 77. Don't reuse passwords
 78. Change your router's default admin password, and possibly the username as well, though not all firmware supports this.
-79. It can be a good idea to use something liek pfSense, DD-WRT, or OpenWRT on a router, as many home router manufacturers won't give security updates for very long.
+79. It can be a good idea to use something like pfSense, DD-WRT, or OpenWRT on a router, as many home router manufacturers won't give security updates for very long.
 80. Sometimes, malware might have new files and new processes, but in other cases, malware might be changing Windows DLLs, so rather than being new files, they are merely modifications of legitimate things.
 81. Foronics DeepFreeze can be a good way to make sure that malware can't stay on a system. It's mostly used by schools and businesses, but it could potentially be useful in a home environment too.
 82. Don't disable your ad blocker, even if a website tells you to
